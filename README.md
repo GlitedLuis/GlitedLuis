@@ -13,11 +13,10 @@
 </p>
 
 ## 𒉭 Sobre Mim
-Yo! Eu sou Luis e sou um aspirante a desenvolvedor júnior, Gosto muito de  tecnologia e programação. Estou no começo da minha jornada no mundo do desenvolvimento de software e estou animado para aprender e crescer nesta área empolgante.
+Yo! Eu sou Luis e sou um desenvolvedor júnior, Gosto muito de  tecnologia e programação. Estou no começo da minha jornada no mundo do desenvolvimento de software e estou animado para aprender e crescer nesta área empolgante.
 
 ## 𒉭 Objetivos
 - **Acompanhamento do Progresso:** Registrar o que tenho aprendido ao longo do tempo para visualizar meu crescimento como desenvolvedor.
-- **Compartilhamento de Conhecimento:** Compartilhar dicas, truques e recursos que encontro durante o aprendizado, úteis para devs juniores como eu.
 - **Prática Contínua:** Armazenar projetos pequenos, desafios e exercícios para aplicar o que aprendi.
 
 ## 📂 Estrutura do Repositório
@@ -29,4 +28,4 @@ Sugestões para melhorar projetos, códigos ou resumos são bem-vindas! Abra uma
 ## 📫 Contato
 Para perguntas, sugestões ou apenas para bater um papo sobre programação, você pode me alcançar através do e-mail: [Luixher414@gmail.com].
 
-Obrigado por visitar meu repositório. Espero que tenha ficado claro
+Obrigado por visitar meu repositório. Espero que tenha ficado claro.
