@@ -21,10 +21,7 @@ Yo! Eu sou Luis e sou um desenvolvedor júnior, Gosto muito de  tecnologia e pro
 
 ## 📂 Estrutura do Repositório
 - **Projetos:** Projetos práticos desenvolvidos, cada um com seu próprio README detalhando tecnologias e lições aprendidas.
-- 
-## 🤝 Como Contribuir
-Sugestões para melhorar projetos, códigos ou resumos são bem-vindas! Abra uma "issue" ou envie um "pull request" com suas sugestões construtivas.
-
+  
 ## 📫 Contato
 Para perguntas, sugestões ou apenas para bater um papo sobre programação, você pode me alcançar através do e-mail: [Luixher414@gmail.com].
 
